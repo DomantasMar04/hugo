@@ -1,0 +1,4 @@
+baseURL = 'https://DomantasMar04.github.io/'
+languageCode = 'lt'
+title = 'Domanto tinklalapis'
+theme = 'PaperMod'
