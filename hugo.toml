@@ -1,4 +1,7 @@
-baseURL = 'https://DomantasMar04.github.io/'
-languageCode = 'lt'
+baseURL = 'https://domantasmar04.github.io/'
+locale = 'lt'
 title = 'Domanto tinklalapis'
 theme = 'PaperMod'
+
+[params.assets]
+  disableFingerprinting = true
