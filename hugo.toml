@@ -5,3 +5,13 @@ theme = 'PaperMod'
 
 [params.assets]
   disableFingerprinting = true
+
+[menu]
+  [[menu.main]]
+    name = 'Įrašai'
+    url = '/posts/'
+    weight = 10
+  [[menu.main]]
+    name = 'Apie mane'
+    url = '/apie/'
+    weight = 20
